@@ -1,0 +1,32 @@
+[
+{
+"DoctorName": "abc",
+"Department": "Cardiology",
+"Facility": "BU10"
+},
+{
+"DoctorName": "bca",
+"Department": "Cardiology",
+"Facility": "BA10"
+},
+{
+"DoctorName": "abc1",
+"Department": "Physiotherapy",
+"Facility": "BU10"
+},
+{
+"DoctorName": "abc8",
+"Department": "Neurology",
+"Facility": "BU10"
+},{
+"DoctorName": "abc7",
+"Department": "Oncology",
+"Facility": "BU10"
+},
+{
+"DoctorName": "abc4",
+"Department": "Gynaecology",
+"Facility": "BA10"
+}
+]
+ 
